@@ -1,0 +1,173 @@
+{
+"canon": {
+"5arl": "sarl",
+"8ordeaux": "bordeaux",
+"b0rdeaux": "bordeaux",
+"c1inique": "clinique",
+"ca1ais": "calais",
+"calai": "calais",
+"departemental": "departementale",
+"du": "de",
+"el": "ei",
+"etab1issements": "etablissements",
+"etablissement": "etablissements",
+"frs": "freres",
+"intl": "international",
+"jan": "jean",
+"jn": "jean",
+"josef": "joseph",
+"nante": "nantes",
+"pl": "paul",
+"sas": "sasu",
+"sci": "snc",
+"st": "saint",
+"teatre": "theatre",
+"tm": "team"
+},
+"pairs": [
+[
+"1a",
+"la"
+],
+[
+"5arl",
+"sarl"
+],
+[
+"8ordeaux",
+"bordeaux"
+],
+[
+"8uch",
+"buch"
+],
+[
+"ass0ciation",
+"association"
+],
+[
+"b0rdeaux",
+"bordeaux"
+],
+[
+"c1inique",
+"clinique"
+],
+[
+"ca1ais",
+"calais"
+],
+[
+"calai",
+"calais"
+],
+[
+"de",
+"du"
+],
+[
+"de1eves",
+"deleves"
+],
+[
+"departemental",
+"departementale"
+],
+[
+"ei",
+"el"
+],
+[
+"etab1issements",
+"etablissements"
+],
+[
+"etablissement",
+"etablissements"
+],
+[
+"freres",
+"frs"
+],
+[
+"herb1ain",
+"herblain"
+],
+[
+"international",
+"intl"
+],
+[
+"jan",
+"jean"
+],
+[
+"jean",
+"jn"
+],
+[
+"josef",
+"joseph"
+],
+[
+"li1le",
+"lille"
+],
+[
+"n0tre",
+"notre"
+],
+[
+"nante",
+"nantes"
+],
+[
+"paul",
+"pl"
+],
+[
+"r0ubaix",
+"roubaix"
+],
+[
+"sa",
+"sas"
+],
+[
+"saint",
+"st"
+],
+[
+"sas",
+"sasu"
+],
+[
+"sci",
+"snc"
+],
+[
+"t0urcoing",
+"tourcoing"
+],
+[
+"team",
+"tm"
+],
+[
+"teatre",
+"theatre"
+]
+],
+"sinks": [
+"amicale",
+"amis",
+"club",
+"comite",
+"ecole",
+"fils",
+"france",
+"freres",
+"services",
+"union"
+]
+}

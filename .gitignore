@@ -1,0 +1,14 @@
+# competition data and large artifacts (not redistributed)
+dataset/
+work/
+output/
+output_variants/
+logs/
+models/*
+!models/*_France.json
+*.npz
+*.npy
+*.parquet
+*.zip
+__pycache__/
+*.pyc
